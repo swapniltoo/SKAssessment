@@ -1,4 +1,4 @@
-# SKAssessment Swift-TableView-Example 
+# SKAssessment Swift-TableView-Example nytimes.com APIs 
 Simple UITableView application with Swift(5.0) Language.
 
 This is an Assignment for for table view nytimes.com APIs 
