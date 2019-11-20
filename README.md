@@ -5,8 +5,10 @@ This is an Assignment for for table view nytimes.com APIs
 
 Requirements
 
-Xcode 10.2+
-iOS 10+
+Xcode 11.0
+iOS 13.0
+
+Note : Project is build on Version 11.0 please use xcode version 11+ for the project .
 
 ![GitHub Logo](/appimg.png)
 Format: ![Alt Text](url)
